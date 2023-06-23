@@ -10,12 +10,14 @@
   A simple and easy `language` package for   <br>real-time communication 
   based on WebRTC.
   <br>
-  <a href="https://docs.omnitalk.io" rel="nofollow"><strong>Explore Omnitalk docs »</strong></a>
+  <a href="https://omnitalk.io" rel="nofollow"><strong>Explore Omnitalk»</strong></a>
   <br>
   <br>
   <a href="https://github.com/omnistory-labs/omnitalk.sdk/issues">Report bug</a>
   ·
   <a href="https://github.com/omnistory-labs/omnitalk.sdk/issues">Request feature</a>
+   ·
+  <a href="https://docs.omnitalk.io">Document</a>
   
 </p>
 <br><br>
